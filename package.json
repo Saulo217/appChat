@@ -9,10 +9,16 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-navigation/native": "^6.0.13",
+    "@react-navigation/stack": "^6.3.2",
     "expo": "~46.0.16",
     "expo-status-bar": "~1.4.0",
+    "pubnub": "^7.2.0",
+    "pubnub-react": "^3.0.1",
     "react": "18.0.0",
-    "react-native": "0.69.6"
+    "react-native": "0.69.6",
+    "react-native-emoji-selector": "^0.2.0",
+    "react-native-gesture-handler": "~2.5.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
